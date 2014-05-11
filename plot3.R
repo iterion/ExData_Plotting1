@@ -1,4 +1,4 @@
-png("figure/plot3.png")
+png("plot3.png")
 with(power.consumption, {
      plot(DateTime, Sub_metering_1,
           type="l", ylab="Energy sub metering", xlab="")

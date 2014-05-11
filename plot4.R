@@ -1,4 +1,4 @@
-png("figure/plot4.png")
+png("plot4.png")
 par(mfrow = c(2, 2))
 with(power.consumption, {
   # plot 1
